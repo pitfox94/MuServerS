@@ -180,6 +180,9 @@ end
 001            00             30         008            011            094          244          -1             45            //Hound
 004            00             30         008            011            094          244          -1             45            //Elite Bull Fighter
 007            00             30         008            011            060          080          -1             15            //Giant
+003            00             10         181            127            181          127          -1             15            //Spider
+002            00             10         181            127            181          127          -1             15            //Budge Dragon
+014            00             10         133            177            133          177          -1             25            //Skeleton
 end
 
 1
@@ -222,9 +225,6 @@ end
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-003            00             10         181            127            181          127          -1             15            //Spider
-002            00             10         181            127            181          127          -1             15            //Budge Dragon
-014            00             10         133            177            133          177          -1             25            //Skeleton
 006            00             10         133            177            133          177          -1             20            //Lich
 end
 
