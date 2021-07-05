@@ -8,7 +8,7 @@
 250            00             00         183            137            02             //Wandering Merchant
 253            00             00         127            086            02             //Potion Girl Amy
 251            00             00         116            141            03             //Hanzo the Blacksmith
-76            00             00         116            139            03             //Hanzo the Blacksmith
+76             00             00         116            139            03             //Hanzo the Blacksmith
 255            00             00         123            135            01             //Lumen the Barmaid
 254            00             00         118            113            03             //Pasi the Mage
 249            00             10         131            088            01             //Guard
@@ -24,8 +24,8 @@
 257            00             00         132            090            03             //Shadow Phantom Soldier
 257            00             00         170            129            01             //Shadow Phantom Soldier
 547            00             00         139            138            03             //Market Union Member Julia
-543            00             00         137		121            03             //Gens Duprian Steward
-544            00             00         137		133            03             //Gens Vanert Steward
+543            00             00         137		    121            03             //Gens Duprian Steward
+544            00             00         137		    133            03             //Gens Vanert Steward
 540            00             00         130            128            03             //Lugard
 522            00             00         130            126            03             //Jerint the Assistant
 end
@@ -200,6 +200,7 @@ end
 025            02             30         006            184            080          244          -1             03            //Ice Queen
 end
 
+//Noria
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
 003            03             30         139            063            247          164          -1             60            //Spider
@@ -222,6 +223,8 @@ end
 031            03             30         041            107            107          181          -1             20            //Agon
 031            03             30         105            184            247          246          -1             20            //Agon
 032            03             30         004            168            115          248          -1             40            //Stone Golem
+032            03             10         206            138            212          138          -1             30            //Stone Golem
+031            03             10         152            111            153          116          -1             30            //Agon
 end
 
 //Arena
