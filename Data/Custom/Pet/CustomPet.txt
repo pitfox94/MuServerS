@@ -1,0 +1,3 @@
+//Index	ItemIndex	AddHP	AddMP	DamageRate		AttackSpeed		DoubleDamageRate	ModelName
+1	6806	        1000	2000	  40	                50	                   10	               "alcamopet"
+end

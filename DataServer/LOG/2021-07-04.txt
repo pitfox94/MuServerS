@@ -1,0 +1,21 @@
+18:25:48 Could not connect to database
+18:33:52 [SocketManager] Server started at port [55960]
+18:33:54 [ServerManager][0] AddServer (127.0.0.1)
+18:33:54 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+18:33:56 [ServerManager][1] AddServer (127.0.0.1)
+18:33:56 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+18:58:25 [SocketManager] Server started at port [55960]
+18:58:27 [ServerManager][0] AddServer (127.0.0.1)
+18:58:27 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+18:58:29 [ServerManager][1] AddServer (127.0.0.1)
+18:58:29 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+21:25:20 [SocketManager] Server started at port [55960]
+21:25:22 [ServerManager][0] AddServer (127.0.0.1)
+21:25:22 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+21:25:24 [ServerManager][1] AddServer (127.0.0.1)
+21:25:24 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+22:06:54 [SocketManager] Server started at port [55960]
+22:06:56 [ServerManager][0] AddServer (127.0.0.1)
+22:06:56 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+22:06:58 [ServerManager][1] AddServer (127.0.0.1)
+22:06:58 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)

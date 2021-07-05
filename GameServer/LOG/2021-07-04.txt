@@ -1,0 +1,178 @@
+18:25:50 [ServerInfo] CashShop loaded successfully
+18:25:50 [ServerInfo] ChaosMix loaded successfully
+18:25:50 [ServerInfo] Character loaded successfully
+18:25:51 [ServerInfo] Custom loaded successfully
+18:25:51 [ServerInfo] Command loaded successfully
+18:25:51 [ServerInfo] Common loaded successfully
+18:25:51 [ServerInfo] Event loaded successfully
+18:25:52 [ServerInfo] EventItemBag loaded successfully
+18:25:52 [ServerInfo] Hack loaded successfully
+18:25:52 [ServerInfo] Item loaded successfully
+18:25:53 [ServerInfo] Monster loaded successfully
+18:25:53 [ServerInfo] Move loaded successfully
+18:25:53 [ServerInfo] Quest loaded successfully
+18:25:53 [ServerInfo] Shop loaded successfully
+18:25:53 [ServerInfo] Skill loaded successfully
+18:25:53 [ServerInfo] Util loaded successfully
+18:25:53 [ReadBotInfo] BotSystem loaded successfully
+18:33:54 [ServerInfo] CashShop loaded successfully
+18:33:54 [ServerInfo] ChaosMix loaded successfully
+18:33:54 [ServerInfo] Character loaded successfully
+18:33:54 [ServerInfo] Custom loaded successfully
+18:33:54 [ServerInfo] Command loaded successfully
+18:33:54 [ServerInfo] Common loaded successfully
+18:33:54 [ServerInfo] Event loaded successfully
+18:33:54 [ServerInfo] EventItemBag loaded successfully
+18:33:54 [ServerInfo] Hack loaded successfully
+18:33:54 [ServerInfo] Item loaded successfully
+18:33:54 [ServerInfo] Monster loaded successfully
+18:33:54 [ServerInfo] Move loaded successfully
+18:33:54 [ServerInfo] Quest loaded successfully
+18:33:54 [ServerInfo] Shop loaded successfully
+18:33:54 [ServerInfo] Skill loaded successfully
+18:33:54 [ServerInfo] Util loaded successfully
+18:33:54 [ReadBotInfo] BotSystem loaded successfully
+18:33:58 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:36:01 [OnlineLoterry] No Winner
+18:58:26 [ServerInfo] CashShop loaded successfully
+18:58:26 [ServerInfo] ChaosMix loaded successfully
+18:58:26 [ServerInfo] Character loaded successfully
+18:58:26 [ServerInfo] Custom loaded successfully
+18:58:26 [ServerInfo] Command loaded successfully
+18:58:27 [ServerInfo] Common loaded successfully
+18:58:27 [ServerInfo] Event loaded successfully
+18:58:27 [ServerInfo] EventItemBag loaded successfully
+18:58:27 [ServerInfo] Hack loaded successfully
+18:58:27 [ServerInfo] Item loaded successfully
+18:58:27 [ServerInfo] Monster loaded successfully
+18:58:27 [ServerInfo] Move loaded successfully
+18:58:27 [ServerInfo] Quest loaded successfully
+18:58:27 [ServerInfo] Shop loaded successfully
+18:58:27 [ServerInfo] Skill loaded successfully
+18:58:27 [ServerInfo] Util loaded successfully
+18:58:27 [ReadBotInfo] BotSystem loaded successfully
+18:58:31 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+19:07:30 [Obj][9000] AddClient (192.168.100.3)
+19:07:35 [Obj][9000] AddAccount (1234)
+19:07:50 [Obj][9000] LogInCharacter (Pene)
+19:08:51 [Obj][9000] LogOutCharacter (Pene)
+19:08:51 [Obj][9000] DelAccount (1234)
+19:08:51 [Obj][9000] DelClient (192.168.100.3)
+19:10:00 [CustomQuiz] Start
+19:13:00 [CustomQuiz] Finish
+19:15:01 [Obj][9000] AddClient (192.168.100.3)
+19:15:06 [Obj][9000] AddAccount (1234)
+19:15:09 [Obj][9000] LogInCharacter (Pene)
+19:15:12 [Obj][9000] LogOutCharacter (Pene)
+19:15:12 [Obj][9000] DelAccount (1234)
+19:15:12 [Obj][9000] DelClient (192.168.100.3)
+19:18:24 [Obj][9000] AddClient (192.168.100.3)
+19:18:28 [Obj][9000] AddAccount (1234)
+19:18:32 [Obj][9000] LogInCharacter (Pene)
+19:36:01 [OnlineLoterry] Add Member (Pene)
+19:36:01 [OnlineLoterry] Winner (Pene)
+19:36:01 [1234][Pene] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 130 Y: 202)
+20:10:00 [CustomQuiz] Start
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 91 Y: 69)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 168 Y: 190)
+20:36:01 [OnlineLoterry] Add Member (Pene)
+20:36:01 [OnlineLoterry] Winner (Pene)
+20:36:01 [1234][Pene] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 159 Y: 14)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 182 Y: 123)
+21:10:00 [CustomQuiz] Start
+21:13:00 [CustomQuiz] Finish
+21:24:49 [Obj][9000] LogOutCharacter (Pene)
+21:24:49 [Obj][9000] DelAccount (1234)
+21:24:49 [Obj][9000] DelClient (192.168.100.3)
+21:25:21 [ServerInfo] CashShop loaded successfully
+21:25:21 [ServerInfo] ChaosMix loaded successfully
+21:25:21 [ServerInfo] Character loaded successfully
+21:25:21 [ServerInfo] Custom loaded successfully
+21:25:21 [ServerInfo] Command loaded successfully
+21:25:22 [ServerInfo] Common loaded successfully
+21:25:22 [ServerInfo] Event loaded successfully
+21:25:22 [ServerInfo] EventItemBag loaded successfully
+21:25:22 [ServerInfo] Hack loaded successfully
+21:25:22 [ServerInfo] Item loaded successfully
+21:25:22 [ServerInfo] Monster loaded successfully
+21:25:22 [ServerInfo] Move loaded successfully
+21:25:22 [ServerInfo] Quest loaded successfully
+21:25:22 [ServerInfo] Shop loaded successfully
+21:25:22 [ServerInfo] Skill loaded successfully
+21:25:22 [ServerInfo] Util loaded successfully
+21:25:22 [ReadBotInfo] BotSystem loaded successfully
+21:25:26 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+21:28:17 [Obj][9000] AddClient (164.77.39.136)
+21:28:21 [Obj][9000] AddAccount (1234)
+21:28:23 [Obj][9000] LogInCharacter (Pene)
+21:29:28 [Obj][9000] LogOutCharacter (Pene)
+21:29:28 [Obj][9000] DelAccount (1234)
+21:29:28 [Obj][9000] DelClient (164.77.39.136)
+21:35:41 [Obj][9000] AddClient (164.77.39.136)
+21:36:01 [OnlineLoterry] No Winner
+21:36:16 [Obj][9000] DelClient (164.77.39.136)
+21:36:42 [Obj][9000] AddClient (164.77.39.136)
+21:36:59 [Obj][9000] AddAccount (chascka)
+21:38:49 [Obj][9001] AddClient (164.77.39.136)
+21:38:55 [Obj][9001] AddAccount (1234)
+21:38:58 [Obj][9001] LogInCharacter (Pene)
+21:39:00 [Obj][9000] LogInCharacter (Adamaz)
+21:41:48 [Obj][9000] LogOutCharacter (Adamaz)
+21:41:48 [Obj][9000] DelAccount (chascka)
+21:41:48 [Obj][9000] DelClient (164.77.39.136)
+21:42:14 [Obj][9001] LogOutCharacter (Pene)
+21:42:14 [Obj][9001] DelAccount (1234)
+21:42:14 [Obj][9001] DelClient (164.77.39.136)
+21:42:47 [Obj][9000] AddClient (164.77.39.136)
+21:42:51 [Obj][9000] AddAccount (1234)
+21:43:05 [Obj][9000] LogInCharacter (Pene)
+21:43:18 [Obj][9001] AddClient (164.77.39.136)
+21:43:26 [Obj][9001] AddAccount (chascka)
+21:43:41 [Obj][9001] LogInCharacter (Adamaz)
+21:43:58 [Obj][9000] LogOutCharacter (Pene)
+21:43:58 [Obj][9000] DelAccount (1234)
+21:43:58 [Obj][9000] DelClient (164.77.39.136)
+21:49:10 [Obj][9001] LogOutCharacter (Adamaz)
+21:49:12 [Obj][9001] LogInCharacter (Adamaz)
+21:49:47 [Obj][9001] LogOutCharacter (Adamaz)
+21:49:47 [Obj][9001] DelAccount (chascka)
+21:49:47 [Obj][9001] DelClient (164.77.39.136)
+21:51:56 [Obj][9000] AddClient (164.77.39.136)
+21:52:00 [Obj][9000] AddAccount (1234)
+21:52:03 [Obj][9000] LogInCharacter (Pene)
+21:53:25 [Obj][9000] LogOutCharacter (Pene)
+21:53:25 [Obj][9000] DelAccount (1234)
+21:53:25 [Obj][9000] DelClient (164.77.39.136)
+22:06:56 [ServerInfo] CashShop loaded successfully
+22:06:56 [ServerInfo] ChaosMix loaded successfully
+22:06:56 [ServerInfo] Character loaded successfully
+22:06:56 [ServerInfo] Custom loaded successfully
+22:06:56 [ServerInfo] Command loaded successfully
+22:06:56 [ServerInfo] Common loaded successfully
+22:06:56 [ServerInfo] Event loaded successfully
+22:06:56 [ServerInfo] EventItemBag loaded successfully
+22:06:56 [ServerInfo] Hack loaded successfully
+22:06:56 [ServerInfo] Item loaded successfully
+22:06:56 [ServerInfo] Monster loaded successfully
+22:06:56 [ServerInfo] Move loaded successfully
+22:06:56 [ServerInfo] Quest loaded successfully
+22:06:56 [ServerInfo] Shop loaded successfully
+22:06:56 [ServerInfo] Skill loaded successfully
+22:06:56 [ServerInfo] Util loaded successfully
+22:06:56 [ReadBotInfo] BotSystem loaded successfully
+22:07:00 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+22:10:00 [CustomQuiz] Start
+22:13:00 [CustomQuiz] Finish
+22:21:35 [Obj][9000] AddClient (164.77.39.136)
+22:21:37 [Obj][9000] AddAccount (1234)
+22:21:41 [Obj][9000] LogInCharacter (Pene)
+22:31:18 [1234][Pene] WZ_SetCoin(RankUser) Val1: 2, Val2: 0, Val3: 0
+22:36:01 [OnlineLoterry] No Winner
+22:39:39 [ServerInfo] Monster loaded successfully
+22:41:04 [Obj][9000] LogOutCharacter (Pene)
+22:41:04 [Obj][9000] DelAccount (1234)
+22:41:04 [Obj][9000] DelClient (164.77.39.136)
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 21)

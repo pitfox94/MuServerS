@@ -1,0 +1,396 @@
+12:23:54 [ServerInfo] CashShop loaded successfully
+12:23:54 [ServerInfo] ChaosMix loaded successfully
+12:23:54 [ServerInfo] Character loaded successfully
+12:23:54 [ServerInfo] Custom loaded successfully
+12:23:54 [ServerInfo] Command loaded successfully
+12:23:54 [ServerInfo] Common loaded successfully
+12:23:54 [ServerInfo] Event loaded successfully
+12:23:54 [ServerInfo] EventItemBag loaded successfully
+12:23:54 [ServerInfo] Hack loaded successfully
+12:23:55 [ServerInfo] Item loaded successfully
+12:23:55 [ServerInfo] Monster loaded successfully
+12:23:55 [ServerInfo] Move loaded successfully
+12:23:55 [ServerInfo] Quest loaded successfully
+12:23:55 [ServerInfo] Shop loaded successfully
+12:23:55 [ServerInfo] Skill loaded successfully
+12:23:55 [ServerInfo] Util loaded successfully
+12:23:55 [ReadBotInfo] BotSystem loaded successfully
+12:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 100 Y: 36)
+12:36:01 [OnlineLoterry] No Winner
+13:06:43 [ServerInfo] CashShop loaded successfully
+13:06:43 [ServerInfo] ChaosMix loaded successfully
+13:06:43 [ServerInfo] Character loaded successfully
+13:06:43 [ServerInfo] Custom loaded successfully
+13:06:43 [ServerInfo] Command loaded successfully
+13:06:43 [ServerInfo] Common loaded successfully
+13:06:43 [ServerInfo] Event loaded successfully
+13:06:43 [ServerInfo] EventItemBag loaded successfully
+13:06:43 [ServerInfo] Hack loaded successfully
+13:06:43 [ServerInfo] Item loaded successfully
+13:06:43 [ServerInfo] Monster loaded successfully
+13:06:43 [ServerInfo] Move loaded successfully
+13:06:43 [ServerInfo] Quest loaded successfully
+13:06:43 [ServerInfo] Shop loaded successfully
+13:06:43 [ServerInfo] Skill loaded successfully
+13:06:43 [ServerInfo] Util loaded successfully
+13:06:43 [ReadBotInfo] BotSystem loaded successfully
+13:06:59 [Obj][9000] AddClient (192.168.0.104)
+13:07:02 [Obj][9000] AddAccount (admin)
+13:07:04 [Obj][9000] LogInCharacter (HooN)
+13:08:56 [Obj][9000] LogOutCharacter (HooN)
+13:08:56 [Obj][9000] DelAccount (admin)
+13:08:56 [Obj][9000] DelClient (192.168.0.104)
+13:09:11 [Obj][9000] AddClient (192.168.0.104)
+13:09:14 [Obj][9000] AddAccount (admin)
+13:09:15 [Obj][9000] LogInCharacter (HooN)
+13:09:35 [Obj][9000] LogOutCharacter (HooN)
+13:09:35 [Obj][9000] DelAccount (admin)
+13:09:35 [Obj][9000] DelClient (192.168.0.104)
+13:10:00 [CustomQuiz] Start
+13:10:03 [Obj][9000] AddClient (192.168.0.104)
+13:10:07 [Obj][9000] AddAccount (admin)
+13:10:08 [Obj][9000] LogInCharacter (HooN)
+13:12:06 [Obj][9000] LogOutCharacter (HooN)
+13:12:06 [Obj][9000] DelAccount (admin)
+13:12:06 [Obj][9000] DelClient (192.168.0.104)
+13:12:18 [Obj][9000] AddClient (192.168.0.104)
+13:12:22 [Obj][9000] AddAccount (admin)
+13:12:24 [Obj][9000] LogInCharacter (HooN)
+13:13:00 [CustomQuiz] Finish
+13:15:20 [Obj][9000] LogOutCharacter (HooN)
+13:15:20 [Obj][9000] DelAccount (admin)
+13:15:20 [Obj][9000] DelClient (192.168.0.104)
+13:15:34 [Obj][9000] AddClient (192.168.0.104)
+13:15:37 [Obj][9000] AddAccount (admin)
+13:15:38 [Obj][9000] LogInCharacter (HooN)
+13:15:59 [Obj][9000] LogOutCharacter (HooN)
+13:15:59 [Obj][9000] DelAccount (admin)
+13:15:59 [Obj][9000] DelClient (192.168.0.104)
+13:16:09 [Obj][9000] AddClient (192.168.0.104)
+13:16:12 [Obj][9000] AddAccount (admin)
+13:16:14 [Obj][9000] LogInCharacter (HooN)
+13:19:13 [Obj][9000] LogOutCharacter (HooN)
+13:19:13 [Obj][9000] DelAccount (admin)
+13:19:13 [Obj][9000] DelClient (192.168.0.104)
+13:19:15 [Obj][9001] AddClient (192.168.0.104)
+13:19:19 [Obj][9001] AddAccount (louismk)
+13:19:21 [Obj][9001] LogInCharacter (LuisADM)
+13:19:56 [Obj][9001] LogOutCharacter (LuisADM)
+13:19:58 [Obj][9001] LogInCharacter (Testeee)
+13:20:37 [Obj][9001] LogOutCharacter (Testeee)
+13:20:37 [Obj][9001] DelAccount (louismk)
+13:20:37 [Obj][9001] DelClient (192.168.0.104)
+13:21:11 [Obj][9000] AddClient (192.168.0.104)
+13:21:14 [Obj][9000] AddAccount (admin)
+13:21:18 [Obj][9000] DelAccount (admin)
+13:21:18 [Obj][9000] DelClient (192.168.0.104)
+13:21:21 [Obj][9001] AddClient (192.168.0.104)
+13:21:26 [Obj][9001] AddAccount (louismk)
+13:21:29 [Obj][9001] LogInCharacter (Testeee)
+13:21:35 [Obj][9001] LogOutCharacter (Testeee)
+13:21:35 [Obj][9001] DelAccount (louismk)
+13:21:35 [Obj][9001] DelClient (192.168.0.104)
+13:22:40 [Obj][9000] AddClient (192.168.0.104)
+13:22:44 [Obj][9000] AddAccount (admin)
+13:22:45 [Obj][9000] LogInCharacter (HooN)
+13:22:47 [Obj][9000] LogOutCharacter (HooN)
+13:22:47 [Obj][9000] DelAccount (admin)
+13:22:47 [Obj][9000] DelClient (192.168.0.104)
+13:23:10 [Obj][9001] AddClient (192.168.0.104)
+13:23:17 [Obj][9001] AddAccount (louismk)
+13:23:19 [Obj][9001] LogInCharacter (Testeee)
+13:25:16 [Obj][9001] LogOutCharacter (Testeee)
+13:25:16 [Obj][9001] DelAccount (louismk)
+13:25:16 [Obj][9001] DelClient (192.168.0.104)
+13:25:19 [Obj][9000] AddClient (192.168.0.104)
+13:25:22 [Obj][9000] AddAccount (admin)
+13:25:24 [Obj][9000] LogInCharacter (HooN)
+13:27:45 [Obj][9000] LogOutCharacter (HooN)
+13:27:45 [Obj][9000] DelAccount (admin)
+13:27:45 [Obj][9000] DelClient (192.168.0.104)
+19:01:29 [ServerInfo] CashShop loaded successfully
+19:01:29 [ServerInfo] ChaosMix loaded successfully
+19:01:29 [ServerInfo] Character loaded successfully
+19:01:30 [ServerInfo] Custom loaded successfully
+19:01:30 [ServerInfo] Command loaded successfully
+19:01:30 [ServerInfo] Common loaded successfully
+19:01:30 [ServerInfo] Event loaded successfully
+19:01:30 [ServerInfo] EventItemBag loaded successfully
+19:01:30 [ServerInfo] Hack loaded successfully
+19:01:30 [ServerInfo] Item loaded successfully
+19:01:31 [ServerInfo] Monster loaded successfully
+19:01:31 [ServerInfo] Move loaded successfully
+19:01:31 [ServerInfo] Quest loaded successfully
+19:01:31 [ServerInfo] Shop loaded successfully
+19:01:31 [ServerInfo] Skill loaded successfully
+19:01:31 [ServerInfo] Util loaded successfully
+19:01:31 [ReadBotInfo] BotSystem loaded successfully
+19:01:41 [Obj][9000] AddClient (192.168.0.104)
+19:01:44 [Obj][9000] AddAccount (admin)
+19:01:49 [Obj][9000] LogInCharacter (HooN)
+19:02:03 [Obj][9000] LogOutCharacter (HooN)
+19:02:03 [Obj][9000] DelAccount (admin)
+19:02:03 [Obj][9000] DelClient (192.168.0.104)
+19:02:38 [ServerInfo] CashShop loaded successfully
+19:02:38 [ServerInfo] ChaosMix loaded successfully
+19:02:38 [ServerInfo] Character loaded successfully
+19:02:38 [ServerInfo] Command loaded successfully
+19:02:38 [ServerInfo] Common loaded successfully
+19:02:38 [ServerInfo] Custom loaded successfully
+19:02:38 [ServerInfo] Event loaded successfully
+19:02:38 [ServerInfo] EventItemBag loaded successfully
+19:02:38 [ServerInfo] Hack loaded successfully
+19:02:38 [ServerInfo] Monster loaded successfully
+19:02:38 [ServerInfo] Move loaded successfully
+19:02:38 [ServerInfo] Quest loaded successfully
+19:02:38 [ServerInfo] Shop loaded successfully
+19:02:38 [ServerInfo] Skill loaded successfully
+19:02:38 [ServerInfo] Util loaded successfully
+19:02:38 [ReadBotInfo] BotSystem loaded successfully
+19:02:52 [Obj][9000] AddClient (192.168.0.104)
+19:02:55 [Obj][9000] AddAccount (admin)
+19:02:57 [Obj][9000] LogInCharacter (HooN)
+19:05:43 [Obj][9000] LogOutCharacter (HooN)
+19:05:43 [Obj][9000] DelAccount (admin)
+19:05:43 [Obj][9000] DelClient (192.168.0.104)
+19:10:00 [CustomQuiz] Start
+19:13:00 [CustomQuiz] Finish
+19:36:01 [OnlineLoterry] No Winner
+19:36:20 [Obj][9000] AddClient (192.168.0.104)
+19:36:45 [Obj][9000] DelClient (192.168.0.104)
+19:39:26 [Obj][9000] AddClient (192.168.0.104)
+19:39:34 [Obj][9000] AddAccount (admin)
+19:39:36 [Obj][9000] DelAccount (admin)
+19:39:36 [Obj][9000] DelClient (192.168.0.104)
+19:40:08 [Obj][9000] AddClient (192.168.0.104)
+19:40:16 [Obj][9000] AddAccount (admin)
+19:40:22 [Obj][9000] DelAccount (admin)
+19:40:22 [Obj][9000] DelClient (192.168.0.104)
+20:19:42 [ServerInfo] CashShop loaded successfully
+20:19:42 [ServerInfo] ChaosMix loaded successfully
+20:19:42 [ServerInfo] Character loaded successfully
+20:19:43 [ServerInfo] Custom loaded successfully
+20:19:43 [ServerInfo] Command loaded successfully
+20:19:43 [ServerInfo] Common loaded successfully
+20:19:43 [ServerInfo] Event loaded successfully
+20:19:43 [ServerInfo] EventItemBag loaded successfully
+20:19:43 [ServerInfo] Hack loaded successfully
+20:19:43 [ServerInfo] Item loaded successfully
+20:19:44 [ServerInfo] Monster loaded successfully
+20:19:44 [ServerInfo] Move loaded successfully
+20:19:44 [ServerInfo] Quest loaded successfully
+20:19:44 [ServerInfo] Shop loaded successfully
+20:19:44 [ServerInfo] Skill loaded successfully
+20:19:44 [ServerInfo] Util loaded successfully
+20:19:44 [ReadBotInfo] BotSystem loaded successfully
+20:19:57 [Obj][9000] AddClient (192.168.0.104)
+20:20:01 [Obj][9000] AddAccount (louismk)
+20:20:04 [Obj][9000] LogInCharacter (LuisADM)
+20:20:24 [Obj][9000] LogOutCharacter (LuisADM)
+20:20:24 [Obj][9000] DelAccount (louismk)
+20:20:24 [Obj][9000] DelClient (192.168.0.104)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 144 Y: 140)
+20:36:01 [OnlineLoterry] No Winner
+20:39:37 [Obj][9000] AddClient (192.168.0.104)
+20:39:39 [Obj][9000] AddAccount (admin)
+20:39:42 [Obj][9000] LogInCharacter (HooN)
+20:39:49 [Obj][9000] LogOutCharacter (HooN)
+20:39:49 [Obj][9000] DelAccount (admin)
+20:39:49 [Obj][9000] DelClient (192.168.0.104)
+20:43:16 [Obj][9000] AddClient (192.168.0.104)
+20:43:19 [Obj][9000] AddAccount (admin)
+20:43:30 [Obj][9000] LogInCharacter (HooN)
+20:44:11 [Obj][9001] AddClient (192.168.0.104)
+20:44:14 [Obj][9001] AddAccount (louismk)
+20:44:16 [Obj][9001] LogInCharacter (LuisADM)
+20:45:32 [Obj][9000] LogOutCharacter (HooN)
+20:45:32 [Obj][9000] DelAccount (admin)
+20:45:32 [Obj][9000] DelClient (192.168.0.104)
+20:46:32 [Obj][9001] LogOutCharacter (LuisADM)
+20:46:32 [Obj][9001] DelAccount (louismk)
+20:46:32 [Obj][9001] DelClient (192.168.0.104)
+20:47:53 [Obj][9000] AddClient (192.168.0.104)
+20:47:55 [Obj][9000] AddAccount (admin)
+20:47:56 [Obj][9000] LogInCharacter (HooN)
+20:49:08 [Obj][9000] LogOutCharacter (HooN)
+20:49:08 [Obj][9000] DelAccount (admin)
+20:49:08 [Obj][9000] DelClient (192.168.0.104)
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 161 Y: 18)
+20:52:26 [Obj][9001] AddClient (192.168.0.104)
+20:52:28 [Obj][9001] AddAccount (admin)
+20:52:31 [Obj][9001] LogInCharacter (HooN)
+20:54:00 [Obj][9001] LogOutCharacter (HooN)
+20:54:00 [Obj][9001] DelAccount (admin)
+20:54:00 [Obj][9001] DelClient (192.168.0.104)
+20:58:22 [Obj][9000] AddClient (192.168.0.104)
+20:58:24 [Obj][9000] AddAccount (admin)
+20:59:00 [Obj][9000] LogInCharacter (HooN)
+20:59:09 [Obj][9000] LogOutCharacter (HooN)
+20:59:09 [Obj][9000] DelAccount (admin)
+20:59:09 [Obj][9000] DelClient (192.168.0.104)
+20:59:54 [Obj][9001] AddClient (192.168.0.104)
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 128 Y: 164)
+21:00:24 [Obj][9001] DelClient (192.168.0.104)
+21:00:24 Response error after connection causes conclusion [9001][][][192.168.0.104]
+21:01:44 [Obj][9000] AddClient (192.168.0.104)
+21:01:46 [Obj][9000] AddAccount (admin)
+21:01:48 [Obj][9000] LogInCharacter (HooN)
+21:01:56 [Obj][9000] LogOutCharacter (HooN)
+21:01:56 [Obj][9000] DelAccount (admin)
+21:01:56 [Obj][9000] DelClient (192.168.0.104)
+21:05:00 [Obj][9001] AddClient (192.168.0.104)
+21:05:03 [Obj][9001] AddAccount (admin)
+21:05:04 [Obj][9001] LogInCharacter (HooN)
+21:06:25 [Obj][9001] LogOutCharacter (HooN)
+21:06:25 [Obj][9001] DelAccount (admin)
+21:06:25 [Obj][9001] DelClient (192.168.0.104)
+21:08:09 [Obj][9000] AddClient (192.168.0.104)
+21:08:12 [Obj][9000] AddAccount (admin)
+21:08:14 [Obj][9000] LogInCharacter (HooN)
+21:10:00 [CustomQuiz] Start
+21:13:00 [CustomQuiz] Finish
+21:26:11 [Obj][9000] LogOutCharacter (HooN)
+21:26:11 [Obj][9000] DelAccount (admin)
+21:26:11 [Obj][9000] DelClient (192.168.0.104)
+21:36:01 [OnlineLoterry] No Winner
+21:46:38 [Obj][9001] AddClient (192.168.0.104)
+21:46:40 [Obj][9001] AddAccount (admin)
+21:46:42 [Obj][9001] LogInCharacter (HooN)
+21:46:56 [Obj][9001] LogOutCharacter (HooN)
+21:46:56 [Obj][9001] DelAccount (admin)
+21:46:56 [Obj][9001] DelClient (192.168.0.104)
+21:46:58 [Obj][9000] AddClient (192.168.0.104)
+21:47:03 [Obj][9000] AddAccount (louismk2)
+21:47:06 [Obj][9000] DelAccount (louismk2)
+21:47:06 [Obj][9000] DelClient (192.168.0.104)
+21:47:08 [Obj][9001] AddClient (192.168.0.104)
+21:47:25 [Obj][9001] AddAccount (louismk)
+21:47:27 [Obj][9001] LogInCharacter (Testeee)
+21:47:37 [Obj][9001] LogOutCharacter (Testeee)
+21:47:37 [Obj][9001] DelAccount (louismk)
+21:47:37 [Obj][9001] DelClient (192.168.0.104)
+21:49:01 [Obj][9000] AddClient (192.168.0.104)
+21:49:05 [Obj][9000] AddAccount (admin)
+21:49:06 [Obj][9000] LogInCharacter (HooN)
+21:49:12 [Obj][9000] LogOutCharacter (HooN)
+21:49:12 [Obj][9000] DelAccount (admin)
+21:49:12 [Obj][9000] DelClient (192.168.0.104)
+21:49:17 [Obj][9001] AddClient (192.168.0.104)
+21:49:21 [Obj][9001] AddAccount (louismk)
+21:49:24 [Obj][9001] LogInCharacter (Testeee)
+21:50:36 [Obj][9001] LogOutCharacter (Testeee)
+21:50:36 [Obj][9001] DelAccount (louismk)
+21:50:36 [Obj][9001] DelClient (192.168.0.104)
+22:10:00 [CustomQuiz] Start
+22:13:00 [CustomQuiz] Finish
+22:24:35 [ServerInfo] CashShop loaded successfully
+22:24:35 [ServerInfo] ChaosMix loaded successfully
+22:24:35 [ServerInfo] Character loaded successfully
+22:24:35 [ServerInfo] Custom loaded successfully
+22:24:35 [ServerInfo] Command loaded successfully
+22:24:35 [ServerInfo] Common loaded successfully
+22:24:35 [ServerInfo] Event loaded successfully
+22:24:35 [ServerInfo] EventItemBag loaded successfully
+22:24:35 [ServerInfo] Hack loaded successfully
+22:24:35 [ServerInfo] Item loaded successfully
+22:24:35 [ServerInfo] Monster loaded successfully
+22:24:35 [ServerInfo] Move loaded successfully
+22:24:35 [ServerInfo] Quest loaded successfully
+22:24:35 [ServerInfo] Shop loaded successfully
+22:24:35 [ServerInfo] Skill loaded successfully
+22:24:35 [ServerInfo] Util loaded successfully
+22:24:35 [ReadBotInfo] BotSystem loaded successfully
+22:24:48 [Obj][9000] AddClient (192.168.0.104)
+22:24:51 [Obj][9000] AddAccount (admin)
+22:24:54 [Obj][9000] LogInCharacter (HooN)
+22:25:36 [Obj][9000] LogOutCharacter (HooN)
+22:25:36 [Obj][9000] DelAccount (admin)
+22:25:36 [Obj][9000] DelClient (192.168.0.104)
+22:28:10 [ServerInfo] CashShop loaded successfully
+22:28:10 [ServerInfo] ChaosMix loaded successfully
+22:28:10 [ServerInfo] Character loaded successfully
+22:28:10 [ServerInfo] Custom loaded successfully
+22:28:10 [ServerInfo] Command loaded successfully
+22:28:10 [ServerInfo] Common loaded successfully
+22:28:10 [ServerInfo] Event loaded successfully
+22:28:10 [ServerInfo] EventItemBag loaded successfully
+22:28:10 [ServerInfo] Hack loaded successfully
+22:28:10 [ServerInfo] Item loaded successfully
+22:28:10 [ServerInfo] Monster loaded successfully
+22:28:10 [ServerInfo] Move loaded successfully
+22:28:10 [ServerInfo] Quest loaded successfully
+22:28:10 [ServerInfo] Shop loaded successfully
+22:28:10 [ServerInfo] Skill loaded successfully
+22:28:10 [ServerInfo] Util loaded successfully
+22:28:10 [ReadBotInfo] BotSystem loaded successfully
+22:28:25 [Obj][9000] AddClient (192.168.0.104)
+22:28:31 [Obj][9000] AddAccount (louismk)
+22:28:42 [Obj][9000] DelAccount (louismk)
+22:28:42 [Obj][9000] DelClient (192.168.0.104)
+22:28:49 [Obj][9001] AddClient (192.168.0.104)
+22:28:53 [Obj][9001] AddAccount (admin)
+22:28:56 [Obj][9001] DelAccount (admin)
+22:28:56 [Obj][9001] DelClient (192.168.0.104)
+22:30:36 [ServerInfo] CashShop loaded successfully
+22:30:36 [ServerInfo] ChaosMix loaded successfully
+22:30:36 [ServerInfo] Character loaded successfully
+22:30:36 [ServerInfo] Custom loaded successfully
+22:30:36 [ServerInfo] Command loaded successfully
+22:30:36 [ServerInfo] Common loaded successfully
+22:30:36 [ServerInfo] Event loaded successfully
+22:30:36 [ServerInfo] EventItemBag loaded successfully
+22:30:36 [ServerInfo] Hack loaded successfully
+22:30:36 [ServerInfo] Item loaded successfully
+22:30:37 [ServerInfo] Monster loaded successfully
+22:30:37 [ServerInfo] Move loaded successfully
+22:30:37 [ServerInfo] Quest loaded successfully
+22:30:37 [ServerInfo] Shop loaded successfully
+22:30:37 [ServerInfo] Skill loaded successfully
+22:30:37 [ServerInfo] Util loaded successfully
+22:30:37 [ReadBotInfo] BotSystem loaded successfully
+22:30:49 [Obj][9000] AddClient (192.168.0.104)
+22:30:52 [Obj][9000] AddAccount (admin)
+22:30:54 [Obj][9000] LogInCharacter (HooN)
+22:31:04 [Obj][9000] LogOutCharacter (HooN)
+22:31:04 [Obj][9000] DelAccount (admin)
+22:31:04 [Obj][9000] DelClient (192.168.0.104)
+22:43:31 [ServerInfo] CashShop loaded successfully
+22:43:31 [ServerInfo] ChaosMix loaded successfully
+22:43:31 [ServerInfo] Character loaded successfully
+22:43:31 [ServerInfo] Custom loaded successfully
+22:43:31 [ServerInfo] Command loaded successfully
+22:43:31 [ServerInfo] Common loaded successfully
+22:43:31 [ServerInfo] Event loaded successfully
+22:43:32 [ServerInfo] EventItemBag loaded successfully
+22:43:32 [ServerInfo] Hack loaded successfully
+22:43:32 [ServerInfo] Item loaded successfully
+22:43:32 [ServerInfo] Monster loaded successfully
+22:43:32 [ServerInfo] Move loaded successfully
+22:43:32 [ServerInfo] Quest loaded successfully
+22:43:32 [ServerInfo] Shop loaded successfully
+22:43:32 [ServerInfo] Skill loaded successfully
+22:43:32 [ServerInfo] Util loaded successfully
+22:43:32 [ReadBotInfo] BotSystem loaded successfully
+22:43:44 [Obj][9000] AddClient (192.168.0.104)
+22:43:47 [Obj][9000] AddAccount (admin)
+22:43:49 [Obj][9000] LogInCharacter (HooN)
+22:44:05 [ServerInfo] CashShop loaded successfully
+22:44:05 [ServerInfo] ChaosMix loaded successfully
+22:44:05 [ServerInfo] Character loaded successfully
+22:44:05 [ServerInfo] Command loaded successfully
+22:44:05 [ServerInfo] Common loaded successfully
+22:44:05 [ServerInfo] Custom loaded successfully
+22:44:05 [ServerInfo] Event loaded successfully
+22:44:05 [ServerInfo] EventItemBag loaded successfully
+22:44:05 [ServerInfo] Hack loaded successfully
+22:44:05 [ServerInfo] Monster loaded successfully
+22:44:05 [ServerInfo] Move loaded successfully
+22:44:05 [ServerInfo] Quest loaded successfully
+22:44:05 [ServerInfo] Shop loaded successfully
+22:44:05 [ServerInfo] Skill loaded successfully
+22:44:05 [ServerInfo] Util loaded successfully
+22:44:05 [ReadBotInfo] BotSystem loaded successfully
+22:44:14 [ServerInfo] Monster loaded successfully
+22:44:20 [ServerInfo] Monster loaded successfully
+22:44:45 [ServerInfo] Monster loaded successfully
+22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 150 Y: 48)

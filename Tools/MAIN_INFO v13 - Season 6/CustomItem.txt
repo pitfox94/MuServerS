@@ -1,0 +1,4 @@
+//Index   ColorR   ColorG   ColorB   ModelName
+2073 70 70 70 "Bow100"
+2074 70 70 70 "CrossBow01"
+end
