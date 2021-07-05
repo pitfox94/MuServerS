@@ -33,3 +33,10 @@
 22:06:59 [ServerInfo] InternalList loaded successfully
 22:06:59 [ServerInfo] WindowList loaded successfully
 22:06:59 [ServerInfo] BlackList loaded successfully
+23:51:13 [SocketManager] Server started at port [55999]
+23:51:13 [ServerInfo] Config loaded successfully
+23:51:13 [ServerInfo] DumpList loaded successfully
+23:51:13 [ServerInfo] ChecksumList loaded successfully
+23:51:13 [ServerInfo] InternalList loaded successfully
+23:51:13 [ServerInfo] WindowList loaded successfully
+23:51:13 [ServerInfo] BlackList loaded successfully

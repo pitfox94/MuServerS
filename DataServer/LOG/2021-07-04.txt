@@ -19,3 +19,8 @@
 22:06:56 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
 22:06:58 [ServerManager][1] AddServer (127.0.0.1)
 22:06:58 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)
+23:51:08 [SocketManager] Server started at port [55960]
+23:51:10 [ServerManager][0] AddServer (127.0.0.1)
+23:51:11 [ServerManager][0] ServerInfo (MuEMU) (55901) (0)
+23:51:12 [ServerManager][1] AddServer (127.0.0.1)
+23:51:12 [ServerManager][1] ServerInfo (MuEMU_CS) (55919) (19)

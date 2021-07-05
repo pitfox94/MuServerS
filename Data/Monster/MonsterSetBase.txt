@@ -222,7 +222,10 @@ end
 
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-003            06             10         036            049            036          049          -1             60            //Spider
+003            00             10         181            127            181          127          -1             15            //Spider
+002            00             10         181            127            181          127          -1             15            //Budge Dragon
+014            00             10         133            177            133          177          -1             25            //Skeleton
+006            00             10         133            177            133          177          -1             20            //Lich
 end
 
 1

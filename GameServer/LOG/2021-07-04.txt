@@ -176,3 +176,21 @@
 22:41:04 [Obj][9000] DelAccount (1234)
 22:41:04 [Obj][9000] DelClient (164.77.39.136)
 22:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 158 Y: 21)
+23:51:10 [ServerInfo] CashShop loaded successfully
+23:51:10 [ServerInfo] ChaosMix loaded successfully
+23:51:10 [ServerInfo] Character loaded successfully
+23:51:10 [ServerInfo] Custom loaded successfully
+23:51:10 [ServerInfo] Command loaded successfully
+23:51:10 [ServerInfo] Common loaded successfully
+23:51:10 [ServerInfo] Event loaded successfully
+23:51:10 [ServerInfo] EventItemBag loaded successfully
+23:51:10 [ServerInfo] Hack loaded successfully
+23:51:10 [ServerInfo] Item loaded successfully
+23:51:10 [ServerInfo] Monster loaded successfully
+23:51:10 [ServerInfo] Move loaded successfully
+23:51:10 [ServerInfo] Quest loaded successfully
+23:51:10 [ServerInfo] Shop loaded successfully
+23:51:10 [ServerInfo] Skill loaded successfully
+23:51:10 [ServerInfo] Util loaded successfully
+23:51:10 [ReadBotInfo] BotSystem loaded successfully
+23:51:14 [ CRYWOLF ] SYNC Occupation: 0, State: 0

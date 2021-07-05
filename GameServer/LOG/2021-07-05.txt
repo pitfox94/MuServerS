@@ -1,0 +1,78 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 82)
+00:05:22 [Obj][9000] AddClient (164.77.39.136)
+00:05:31 [Obj][9000] AddAccount (chascka)
+00:05:33 [Obj][9000] LogInCharacter (Adamaz)
+00:10:00 [CustomQuiz] Start
+00:13:00 [CustomQuiz] Finish
+00:13:12 [ServerInfo] Monster loaded successfully
+00:14:51 [ServerInfo] Monster loaded successfully
+00:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 115 Y: 169)
+00:17:48 [ServerInfo] Monster loaded successfully
+00:19:19 [ServerInfo] Monster loaded successfully
+00:21:04 [ServerInfo] Monster loaded successfully
+00:22:30 [Obj][9000] LogOutCharacter (Adamaz)
+00:22:30 [Obj][9000] DelAccount (chascka)
+00:22:30 [Obj][9000] DelClient (164.77.39.136)
+00:22:32 [Obj][9001] AddClient (164.77.39.136)
+00:22:50 [Obj][9001] AddAccount (1234)
+00:22:52 [Obj][9001] LogInCharacter (Pene)
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 88 Y: 28)
+00:26:12 [ServerInfo] Monster loaded successfully
+00:35:36 [ServerInfo] Monster loaded successfully
+00:36:01 [OnlineLoterry] Add Member (Pene)
+00:36:01 [OnlineLoterry] Winner (Pene)
+00:36:01 [1234][Pene] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 165 Y: 12)
+00:53:44 [ServerInfo] Monster loaded successfully
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 155 Y: 12)
+01:03:05 [1234][Pene] BuyVip (Level: 1)
+01:03:05 [1234][Pene] WZ_SetCoin(BuyVip) Val1: -10, Val2: 0, Val3: 0
+01:09:06 [1234][Pene] WZ_SetCoin(RankUser) Val1: 2, Val2: 0, Val3: 0
+01:10:00 [CustomQuiz] Start
+01:11:28 [Obj][9001] LogOutCharacter (Pene)
+01:11:28 [Obj][9001] DelAccount (1234)
+01:11:28 [Obj][9001] DelClient (164.77.39.136)
+01:13:00 [CustomQuiz] Finish
+01:36:01 [OnlineLoterry] No Winner
+02:10:00 [CustomQuiz] Start
+02:13:00 [CustomQuiz] Finish
+02:36:01 [OnlineLoterry] No Winner
+02:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 201 Y: 78)
+03:10:00 [CustomQuiz] Start
+03:13:00 [CustomQuiz] Finish
+03:36:01 [OnlineLoterry] No Winner
+04:05:00 [Invasion Manager] Index(0) Boss Position (Map: 3 X: 199 Y: 78)
+04:10:00 [CustomQuiz] Start
+04:13:00 [CustomQuiz] Finish
+04:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 48 Y: 158)
+04:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 57 Y: 95)
+04:36:01 [OnlineLoterry] No Winner
+04:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 160 Y: 12)
+05:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 51 Y: 108)
+05:10:00 [CustomQuiz] Start
+05:13:00 [CustomQuiz] Finish
+05:36:01 [OnlineLoterry] No Winner
+06:10:00 [CustomQuiz] Start
+06:13:00 [CustomQuiz] Finish
+06:36:01 [OnlineLoterry] No Winner
+06:50:00 [Invasion Manager] Index(7) Boss Position (Map: 0 X: 153 Y: 49)
+07:10:00 [CustomQuiz] Start
+07:13:00 [CustomQuiz] Finish
+07:36:01 [OnlineLoterry] No Winner
+08:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 202)
+08:10:00 [CustomQuiz] Start
+08:13:00 [CustomQuiz] Finish
+08:15:00 [Invasion Manager] Index(1) Boss Position (Map: 3 X: 69 Y: 96)
+08:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 153 Y: 194)
+08:36:01 [OnlineLoterry] No Winner
+08:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 159 Y: 59)
+09:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 132 Y: 165)
+09:10:00 [CustomQuiz] Start
+09:13:00 [CustomQuiz] Finish
+09:25:10 [Obj][9000] AddClient (164.77.39.136)
+09:25:13 [Obj][9000] AddAccount (1234)
+09:25:15 [Obj][9000] LogInCharacter (Pene)
+09:29:16 [Obj][9000] LogOutCharacter (Pene)
+09:29:16 [Obj][9000] DelAccount (1234)
+09:29:16 [Obj][9000] DelClient (164.77.39.136)
+09:36:01 [OnlineLoterry] No Winner
