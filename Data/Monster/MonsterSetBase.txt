@@ -224,9 +224,11 @@ end
 032            03             30         004            168            115          248          -1             40            //Stone Golem
 end
 
+//Arena
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-006            00             10         133            177            133          177          -1             20            //Lich
+336            06             15         085            092            081          096          -1             30            //Death Centurion
+336            06             15         036            115            036          112          -1             30            //Death Centurion
 end
 
 1
