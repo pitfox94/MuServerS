@@ -6,3 +6,10 @@ DB/MuOnline.reg
 DB/MuOnline64.reg
 DB/MuOnlineS6.ldf
 DB/MuOnlineS6.mdf
+ConnectServer/LOG/2021-07-05.txt
+DataServer/LOG/2021-07-05.txt
+GameServerCS/CONNECT_LOG/2021-07-05.txt
+GameServerCS/HACK_LOG/2021-07-05.txt
+JoinServer/LOG/2021-07-05.txt
+MHPServer/LOG/2021-07-05.txt
+MHPServer/LOG/HACK_LOG/2021-07-05.txt
