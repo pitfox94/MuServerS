@@ -227,8 +227,11 @@ end
 //Arena
 1
 //Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
-336            06             15         085            092            081          096          -1             30            //Death Centurion
-336            06             15         036            115            036          112          -1             30            //Death Centurion
+336            06             10         085            092            081          096          -1             30            //Death Centurion
+336            06             10         036            115            036          112          -1             30            //Death Centurion
+421            06             10         044            096            049          077          -1             20            //Polluted Butterfly
+418            06             10         044            096            049          077          -1             20            //Strange Rabbit
+571            06             10         046            072            049          070          -1             10            //Orcus
 end
 
 1
