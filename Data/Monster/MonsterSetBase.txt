@@ -235,8 +235,9 @@ end
 421            06             10         044            096            049          077          -1             20            //Polluted Butterfly
 419            06             10         044            096            049          077          -1             20            //Hideous Rabbit
 571            06             10         046            072            049          070          -1             20            //Orcus
-088            06             10         051            041            045          036          -1             20            //Red Skeleton Knight
-074            06             10         050            060            045          054          -1             20            //Alpha Crust
+088            06             10         049            040            046          037          -1             30            //Red Skeleton Knight
+074            06             10         048            045            056          054          -1             30            //Alpha Crust
+434            06             10         032            054            028          059          -1             30            //Gigantis
 end
 
 1
