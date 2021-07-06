@@ -1,3 +1,3 @@
 //Message                                                            Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
-"DarkMu"                                                  0      0       0         0       0     0       0      0       60
+"Mu GOD"                                                  0      0       0         0       0     0       0      0       60
 end
