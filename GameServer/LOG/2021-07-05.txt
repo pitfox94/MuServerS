@@ -76,3 +76,85 @@
 09:29:16 [Obj][9000] DelAccount (1234)
 09:29:16 [Obj][9000] DelClient (164.77.39.136)
 09:36:01 [OnlineLoterry] No Winner
+14:42:55 [ServerInfo] CashShop loaded successfully
+14:42:55 [ServerInfo] ChaosMix loaded successfully
+14:42:55 [ServerInfo] Character loaded successfully
+14:42:55 [ServerInfo] Custom loaded successfully
+14:42:55 [ServerInfo] Command loaded successfully
+14:42:55 [ServerInfo] Common loaded successfully
+14:42:55 [ServerInfo] Event loaded successfully
+14:42:55 [ServerInfo] EventItemBag loaded successfully
+14:42:55 [ServerInfo] Hack loaded successfully
+14:42:55 [ServerInfo] Item loaded successfully
+14:42:55 [ServerInfo] Monster loaded successfully
+14:42:55 [ServerInfo] Move loaded successfully
+14:42:55 [ServerInfo] Quest loaded successfully
+14:42:55 [ServerInfo] Shop loaded successfully
+14:42:55 [ServerInfo] Skill loaded successfully
+14:42:55 [ServerInfo] Util loaded successfully
+14:42:55 [ReadBotInfo] BotSystem loaded successfully
+14:42:59 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+14:50:00 [Invasion Manager] Index(7) Boss Position (Map: 2 X: 165 Y: 15)
+15:10:00 [CustomQuiz] Start
+15:13:00 [CustomQuiz] Finish
+15:36:01 [OnlineLoterry] No Winner
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 126 Y: 198)
+16:10:00 [CustomQuiz] Start
+16:13:00 [CustomQuiz] Finish
+16:15:00 [Invasion Manager] Index(1) Boss Position (Map: 2 X: 175 Y: 64)
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 62 Y: 104)
+16:36:01 [OnlineLoterry] No Winner
+16:46:29 [ServerInfo] Monster loaded successfully
+16:47:27 [Obj][9000] AddClient (164.77.39.136)
+16:47:33 [Obj][9000] AddAccount (chascka)
+16:47:37 [Obj][9000] LogInCharacter (Adamaz)
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 162 Y: 12)
+16:52:24 [Obj][9000] LogOutCharacter (Adamaz)
+16:52:24 [Obj][9000] DelAccount (chascka)
+16:52:24 [Obj][9000] DelClient (164.77.39.136)
+16:52:27 [Obj][9001] AddClient (164.77.39.136)
+16:52:31 [Obj][9001] AddAccount (1234)
+16:52:33 [Obj][9001] LogInCharacter (Pene)
+17:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 52 Y: 109)
+17:10:00 [CustomQuiz] Start
+17:13:00 [CustomQuiz] Finish
+17:36:01 [OnlineLoterry] No Winner
+18:10:00 [CustomQuiz] Start
+18:13:00 [CustomQuiz] Finish
+18:36:01 [OnlineLoterry] No Winner
+18:50:00 [Invasion Manager] Index(7) Boss Position (Map: 3 X: 202 Y: 83)
+19:10:00 [CustomQuiz] Start
+19:13:00 [CustomQuiz] Finish
+19:25:29 [Obj][9001] LogOutCharacter (Pene)
+19:25:29 [Obj][9001] DelAccount (1234)
+19:25:29 [Obj][9001] DelClient (164.77.39.136)
+19:25:50 [ServerInfo] CashShop loaded successfully
+19:25:50 [ServerInfo] ChaosMix loaded successfully
+19:25:50 [ServerInfo] Character loaded successfully
+19:25:50 [ServerInfo] Custom loaded successfully
+19:25:50 [ServerInfo] Command loaded successfully
+19:25:51 [ServerInfo] Common loaded successfully
+19:25:51 [ServerInfo] Event loaded successfully
+19:25:52 [ServerInfo] EventItemBag loaded successfully
+19:25:52 [ServerInfo] Hack loaded successfully
+19:25:52 [ServerInfo] Item loaded successfully
+19:25:53 [ServerInfo] Monster loaded successfully
+19:25:53 [ServerInfo] Move loaded successfully
+19:25:53 [ServerInfo] Quest loaded successfully
+19:25:53 [ServerInfo] Shop loaded successfully
+19:25:53 [ServerInfo] Skill loaded successfully
+19:25:53 [ServerInfo] Util loaded successfully
+19:25:53 [ReadBotInfo] BotSystem loaded successfully
+19:25:57 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+19:32:41 [Obj][9000] AddClient (164.77.39.136)
+19:32:46 [Obj][9000] AddAccount (1234)
+19:32:47 [Obj][9000] LogInCharacter (Pene)
+19:35:55 [1234][Pene] WZ_SetCoin(RankUser) Val1: 2, Val2: 0, Val3: 0
+19:36:01 [OnlineLoterry] No Winner
+19:43:20 [1234][Pene] WZ_SetCoin(RankUser) Val1: 2, Val2: 0, Val3: 0
+20:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 133 Y: 199)
+20:10:00 [CustomQuiz] Start
+20:13:00 [CustomQuiz] Finish
+20:15:00 [Invasion Manager] Index(1) Boss Position (Map: 0 X: 45 Y: 48)
+20:25:00 [Invasion Manager] Index(2) Boss Position (Map: 57 X: 115 Y: 47)
+20:36:01 [OnlineLoterry] No Winner
