@@ -1,3 +1,57 @@
 00:27:17 [ServerInfo] Monster loaded successfully
 00:28:28 [ServerInfo] Monster loaded successfully
 00:33:38 [ServerInfo] Monster loaded successfully
+14:42:57 [ServerInfo] CashShop loaded successfully
+14:42:57 [ServerInfo] ChaosMix loaded successfully
+14:42:57 [ServerInfo] Character loaded successfully
+14:42:57 [ServerInfo] Custom loaded successfully
+14:42:57 [ServerInfo] Command loaded successfully
+14:42:57 [ServerInfo] Common loaded successfully
+14:42:57 [ Crywolf ] State (0) -> NONE
+14:42:57 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+14:42:57 [ServerInfo] Event loaded successfully
+14:42:57 [ServerInfo] EventItemBag loaded successfully
+14:42:57 [ServerInfo] Hack loaded successfully
+14:42:57 [ServerInfo] Item loaded successfully
+14:42:57 [ServerInfo] Monster loaded successfully
+14:42:57 [ServerInfo] Move loaded successfully
+14:42:57 [ServerInfo] Quest loaded successfully
+14:42:57 [ServerInfo] Shop loaded successfully
+14:42:57 [ServerInfo] Skill loaded successfully
+14:42:57 [ServerInfo] Util loaded successfully
+14:42:57 [ReadBotInfo] BotSystem loaded successfully
+14:42:58 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+14:42:58 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+14:42:58 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+14:42:58 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+14:42:58 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+14:42:58 [CastleSiege] CCastleSiege::Init() - START
+14:42:58 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+14:42:59 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+19:25:54 [ServerInfo] CashShop loaded successfully
+19:25:54 [ServerInfo] ChaosMix loaded successfully
+19:25:54 [ServerInfo] Character loaded successfully
+19:25:54 [ServerInfo] Custom loaded successfully
+19:25:55 [ServerInfo] Command loaded successfully
+19:25:55 [ServerInfo] Common loaded successfully
+19:25:55 [ Crywolf ] State (0) -> NONE
+19:25:55 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+19:25:55 [ServerInfo] Event loaded successfully
+19:25:55 [ServerInfo] EventItemBag loaded successfully
+19:25:55 [ServerInfo] Hack loaded successfully
+19:25:55 [ServerInfo] Item loaded successfully
+19:25:55 [ServerInfo] Monster loaded successfully
+19:25:55 [ServerInfo] Move loaded successfully
+19:25:55 [ServerInfo] Quest loaded successfully
+19:25:55 [ServerInfo] Shop loaded successfully
+19:25:55 [ServerInfo] Skill loaded successfully
+19:25:55 [ServerInfo] Util loaded successfully
+19:25:55 [ReadBotInfo] BotSystem loaded successfully
+19:25:56 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+19:25:56 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+19:25:56 [CastleSiege] CCastleSiege::LoadData() - Siege Start Date (2017-9-16)
+19:25:56 [CastleSiege] CCastleSiege::LoadData() - Siege Date (7-0-0)
+19:25:56 [CastleSiege] CCastleSiege::LoadData() - Siege End Date (2017-9-23(0:0:0))
+19:25:56 [CastleSiege] CCastleSiege::Init() - START
+19:25:56 [CastleSiege] CCastleSiege::Init() - CheckSync() == FALSE
+19:25:57 [ CRYWOLF ] SYNC Occupation: 0, State: 0
